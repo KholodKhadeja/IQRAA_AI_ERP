@@ -8,3 +8,6 @@ Thumbs.db
 
 # Office temp/lock files
 ~$*
+
+# Word documents
+*.docx
