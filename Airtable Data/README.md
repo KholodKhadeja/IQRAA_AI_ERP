@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # Airtable Data
 
 בסיס הנתונים המרכזי של פרויקט IQRAA מנוהל ב-Airtable. הצטרפות לבסיס:
@@ -16,3 +18,5 @@
 | [Tasks](<Airtable Tasks Table.png>)       | משימות המשויכות לפרויקטים                                                                          |
 | [Clients](<Clients Table.png>)            | לקוחות שהומרו מליד לאחר תשלום ראשון                                                                |
 | [Invoices](<Invoices Table.png>)          | חשבוניות, סטטוס אימות (Validated/Invalid) וסטטוס תשלום                                             |
+
+</div>
