@@ -16,7 +16,7 @@ Webhook שמקבל ליד חדש מדף הנחיתה ויוצר עבורו רש�
 
 וורקפלו אוטומטי לניהול מחזור החיים הראשוני של לידים ב־IQRAA. הוורקפלו מאתר לידים חדשים ב־Airtable, שולח מייל אישור הכולל קישור לקביעת פגישת ייעוץ וקישור לבוט המידע של IQRAA בטלגרם, ולאחר שליחה מוצלחת מעדכן את הסטטוס ל־Processing. בנוסף, הוא בודק תגובות של לידים ומעדכן ל־Meeting Booking כאשר קיימת בקשה ברורה לקביעת פגישה.
 
-![IQRAA - Lead Lifecycle Agent](<IQRAA - Lead Lifecycle Agent.png>)
+![IQRAA - Email Agent](<IQRAA - Lead Lifecycle Agent.png>)
 
 ### [IQRAA - Updating Status to "BOOK MEETING" via email](https://kholod-khadeja.app.n8n.cloud/workflow/x4CFW0rWiCXzVwpO)
 
@@ -68,6 +68,6 @@ Webhook שמופעל בלחיצה על כפתור "קביעת פגישת ייע�
 
 ---
 
-📌 **הערה:** הקובץ `IQRAA - Email Agent.png` הוא צילום מסך מוקדם יותר של אותו Workflow המופיע למעלה תחת "IQRAA - Lead Lifecycle Agent" (זהה ב-n8n, כולל אותו מזהה Workflow) — לכן לא הוצג כפריט נפרד, כדי לשמור על 10 פריטים התואמים ל-10 ה-Workflows הפעילים בפועל.
+📌 **הערה:** הקובץ `IQRAA - Email Agent.png` הוא צילום מסך מוקדם יותר של אותו Workflow המופיע למעלה תחת "IQRAA - Email Agent" (זהה ב-n8n, כולל אותו מזהה Workflow) — לכן לא הוצג כפריט נפרד, כדי לשמור על 10 פריטים התואמים ל-10 ה-Workflows הפעילים בפועל.
 
 </div>
